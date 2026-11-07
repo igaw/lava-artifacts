@@ -38,4 +38,6 @@ password.
 - Kernels: tag `v4.19.325-rt140` of
   [linux-stable-rt](https://git.kernel.org/pub/scm/linux/kernel/git/rt/linux-stable-rt.git).
   Configs and local patches: TODO.
-- Rootfs: TODO (image description and where its packages' sources are).
+- Rootfs: built with KIWI NG from
+  [igaw/kiwi-lava](https://github.com/igaw/kiwi-lava), openSUSE Tumbleweed
+  from August 2022.
